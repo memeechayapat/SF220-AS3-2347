@@ -1,0 +1,29 @@
+html{
+  background-color: #FCEBB6;
+  margin-left: auto;
+  margin-right: auto;
+  color:  #221811;
+  width: 80% 
+}
+
+body{
+  //margin-left: 60px;
+  //margin-right: 60px;
+}
+
+.head{
+  background-color: #D2B48C;
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  font-weight: 600;
+
+}
+
+footer {
+  background-color: #D2B48C;
+  text-align: center;
+  font-size: 12.5px;
+}
